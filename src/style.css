@@ -1,5 +1,11 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
+    text-align: center;
     background: white;
+    font-size: 3em;
+    padding: 40px;
+}
+#excuse{
+    font-size: 2em;
+    font-weight: bold;
 }
